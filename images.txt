@@ -7,3 +7,4 @@ flink:1.19.1-scala_2.12-java8
 flink:1.19.1-scala_2.12-java11
 prestodb/presto
 bitnami/kafka
+rabbitmq:management
