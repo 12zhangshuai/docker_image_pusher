@@ -9,3 +9,4 @@ prestodb/presto
 bitnami/kafka
 rabbitmq:management
 openjdk:17-jdk-slim
+ubuntu:22.04
